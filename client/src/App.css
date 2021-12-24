@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+.navBtns{
+
+display: flex;
+justify-content: space-between;
+width: 150px;
+
+margin-left: 500px;
+
+}
